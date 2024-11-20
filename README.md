@@ -2,6 +2,32 @@ Task Manager 📝
 
 Task Manager é um aplicativo de gerenciamento de tarefas construído com Python e Kivy. Organize suas tarefas de forma eficiente com uma interface intuitiva, gráficos de desempenho e relatórios em PDF.
 
+## 🖼️ Capturas de Tela
+
+- **Tela Principal**:
+  ![printd1](screenshots/printd1.png)
+
+- **Tela de Adicionar Tarefa**:
+  ![printd2](screenshots/printd2.png)
+
+- **Opções para Tarefa em Andamento**:
+  ![printd3](screenshots/printd3.png)
+
+- **Opções para Tarefa Concluida**:
+  ![printd4](screenshots/printd4.png)
+
+- **Opções para Tarefa Priorizada**:
+  ![printd5](screenshots/printd5.png)
+
+- **Tela Cheia**:
+  ![printd6](screenshots/printd6.png)
+
+- **Gráfico de Conclusão**:
+  ![printd7](screenshots/printd7.png)
+
+- **Relatório em txt**:
+  ![printd8](screenshots/printd8.png)
+
 🚀 Funcionalidades
 Adicionar e Editar Tarefas: Crie e modifique suas tarefas de forma simples.
 Exibição de Tarefas: Veja suas tarefas em uma lista organizada.
