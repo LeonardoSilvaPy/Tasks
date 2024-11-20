@@ -1,4 +1,4 @@
-Task Manager 📝
+# **Task Manager** 📝
 
 Task Manager é um aplicativo de gerenciamento de tarefas construído com Python e Kivy. Organize suas tarefas de forma eficiente com uma interface intuitiva, gráficos de desempenho e relatórios em PDF.
 
@@ -37,7 +37,6 @@ Interface Intuitiva: Construído com Kivy e customtkinter para uma interface gr�
 
 🛠️ Tecnologias Usadas
 Python 3.13.0: Linguagem principal do projeto.
-Kivy: Framework para a construção da interface gráfica.
 CustomTkinter: Extensão do Tkinter para interfaces mais modernas.
 Matplotlib: Para geração de gráficos de desempenho.
 ReportLab: Para gerar relatórios em formato PDF.
@@ -65,7 +64,6 @@ Faça o push para a branch (git push origin feature-nome-da-feature).
 Abra um Pull Request no GitHub.
 
 🔗 Links Úteis
-Documentação do Kivy
 Documentação do CustomTkinter
 Documentação do Matplotlib
 Documentação do ReportLab
